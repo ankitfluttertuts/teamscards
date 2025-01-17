@@ -1,8 +1,5 @@
 import React, { useState } from "react";
 
-const btnStyle = {
-  backgroundColor: "white",
-};
 
 function Data() {
   const [name, setName] = useState("");
