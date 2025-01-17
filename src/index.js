@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import Copyright from "./footer/copyrightElements";
 import HeaderComponent from "./header/header";
+import SubApp from "./others/SubApp"
 
 import App from "./App";
 //Defining the Root
@@ -15,4 +16,9 @@ const mainBody = ReactDOM.createRoot(document.getElementById("mainBody"));
 
 copyright.render(<Copyright />);
 headerComponent.render(<HeaderComponent />);
-mainBody.render(<App/>);
+mainBody.render(
+  <div>
+<App/>
+<SubApp/>
+  </div>
+);

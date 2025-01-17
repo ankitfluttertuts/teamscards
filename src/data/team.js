@@ -22,48 +22,6 @@ const team = [
         name : "Team Lead",
         image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
-    },
-    {
-        id : "4",
-        name : "Team Lead",
-        image: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        number:"8520087572"
     }
 ]
 export default team;

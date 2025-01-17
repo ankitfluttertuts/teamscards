@@ -81,3 +81,20 @@ code {
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+#btnSubmit{
+  padding: 1rem;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: 600;
+  margin-left: 2rem;
+}
+
+#inputData{
+  width: 10rem;
+  background-color: wheat;
+  color: black;
+  height: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
